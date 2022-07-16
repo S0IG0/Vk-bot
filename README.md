@@ -1,1 +1,1 @@
-#Project on working with the API of the Vkontakte service
+# Project on working with the API of the Vkontakte service
